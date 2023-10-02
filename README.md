@@ -1,4 +1,5 @@
-# 칵테일 프로젝트
+# AI를 통한 Cocktail Service
+
 ## 제공하는 서비스
 
 
