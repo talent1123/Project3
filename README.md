@@ -9,11 +9,7 @@
 4. 마찬가지로 이미지를 이용해서, GAN을 이용한 화풍 변경.
 
 사용한 기술
-filebeat, logstash, elasticSearch, kibana
-
-airflow, hadoop
-
-mariadb, python, django
+filebeat, logstash, elasticSearch, kibana, python
 
 ## 프로젝트 아키텍쳐
 
